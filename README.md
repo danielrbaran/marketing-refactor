@@ -1,4 +1,4 @@
-# Your Project Title 
+# Marketing Site Refactor for Accessibility 
 
 ## Technology Used 
 
@@ -12,11 +12,8 @@
 
 [Visit the Deployed Site](https://youtu.be/BFyeuLhjcPY)
 
-This was refactored.
+Accessibility is rapidly evolving from the standpoint of user expectations, as well as site status and performance.  No longer a nice-to-have, it's important for a site experience to keep up with code innovations that make site UX increasingly friendly to all users.  Our team has brought this site's code up to modern standards, and will continue to ensure it remains current.
 
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
 
 
 ![Site Langing Page](./site.gif)
@@ -24,7 +21,6 @@ If you need an example of a good README, check out [the VSCode repository](https
 
 ## Table of Contents (Optional)
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
 
 * [Code Refactor Example](#code-refactor-example)
 * [Usage](#usage)
