@@ -10,13 +10,11 @@
 
 ## Description 
 
-[Visit the Deployed Site](https://youtu.be/BFyeuLhjcPY)
+[Visit the Deployed Site](https://danielrbaran.github.io/marketing-refactor/)
 
 Accessibility is rapidly evolving from the standpoint of user expectations, as well as site status and performance.  No longer a nice-to-have, it's important for a site experience to keep up with code innovations that make site UX increasingly friendly to all users.  Our team has brought this site's code up to modern standards, and will continue to ensure it remains current.
 
 
-
-![Site Langing Page](./site.gif)
 
 
 ## Table of Contents
