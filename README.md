@@ -19,14 +19,13 @@ Accessibility is rapidly evolving from the standpoint of user expectations, as w
 ![Site Langing Page](./site.gif)
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 
 * [Code Refactor Example](#code-refactor-example)
 * [Usage](#usage)
 * [Learning Points](#learning-points)
 * [Author Info](#author-info)
-* [Credits](#credits)
 * [License](#license)
 
 
